@@ -9,6 +9,13 @@ If your attack strength is higher, you have wounded the creature. If the creatur
 is higher has wounded you.
 
 You must now either leave (turn to 9), or you may attack him (turn to 119).
+------9------
+You take one of your knives and place it in the backpack.
+Continuing down the corridor, you soon come to a dead end, and have 
+no choice but to retrace your steps and walk under the golden rain
+
+
+
  -----7-------
 You are give 3 options of weaknesses, each one behind a colored closed door. 
 If you choose the red door go to number 20, if you choose the green door go to number 21, if
