@@ -2,3 +2,7 @@ This story was written by Anda Chiorean of team Vibe Coders
 
 Before embarking on your aventure you must first determine your strengths and weaknesses.
 If u want to determine your strengths turn to 3 or turn to 7 to determine your weaknesses
+ -----7-------
+You are give 3 options of weaknesses, each one behind a colored closed door. 
+If you choose the red door go to number 20, if you choose the green door go to number 21, if
+you choose the blue door go to number 22.
