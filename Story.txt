@@ -13,6 +13,10 @@ You must now either leave (turn to 9), or you may attack him (turn to 119).
 You are give 3 options of weaknesses, each one behind a colored closed door. 
 If you choose the red door go to number 20, if you choose the green door go to number 21, if
 you choose the blue door go to number 22.
+
+-----21--------
+You have opened the green door and you discovered that your weakness is that you are overly trusting, 
+which can lead to betrayal by those you least expect. To learn how to overcome this, turn to 30. 
 -----20---
 YOU ARE STUCK BY LIGHTNING!!!!!! From now own you have a brain tumor that will make you hear voices.
 -3 Intelligence -4 charisma
