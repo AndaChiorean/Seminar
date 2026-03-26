@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This story was written by Adrian of team Vibe Coders
 =======
 This story was written by Mario Maxim Resiga Alex of team Vibe Coders
 >>>>>>> 784b3d09764501762de596e10b34414bf4d649b7
 The story started with the murder of the iss teacher 10 minutes before the lab started
+=======
+This story was written by Anda Chiorean of team Vibe Coders
+>>>>>>> d17e7340110ba931a9be207087200cfbf0ff3603
