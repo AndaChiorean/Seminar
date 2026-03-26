@@ -2,3 +2,7 @@ This story was written by Anda Chiorean of team Vibe Coders
 
 Before embarking on your aventure you must first determine your strengths and weaknesses.
 If u want to determine your strengths turn to 3 or turn to 7 to determine your weaknesses
+
+How to determine your strengths:
+If your attack strength is higher, you have wounded the creature. If the creature's attack strength
+is higher has wounded you.
