@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-This story was written by Anda of team Vibe Coders
-=======
-This story was written by Mario Maxim Resiga Alex of team Vibe Coders
->>>>>>> 784b3d09764501762de596e10b34414bf4d649b7
+This story was written by Anda Chiorean of team Vibe Coders
