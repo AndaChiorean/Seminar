@@ -9,3 +9,7 @@ If your attack strength is higher, you have wounded the creature. If the creatur
 is higher has wounded you.
 
 You must now either leave (turn to 9), or you may attack him (turn to 119).
+ -----7-------
+You are give 3 options of weaknesses, each one behind a colored closed door. 
+If you choose the red door go to number 20, if you choose the green door go to number 21, if
+you choose the blue door go to number 22.
